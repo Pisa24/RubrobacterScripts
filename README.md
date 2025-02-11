@@ -1,2 +1,2 @@
 # RubrobacterScripts
-Una serie completa degli script necessari per effettuare gli sudi sui Rubrobacter.
+Complete account of the scripts needed to perform Rubrobacter analyses.
